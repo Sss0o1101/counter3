@@ -9,3 +9,14 @@
     border-radius: 10px;
 }
 
+.counter-number {
+    font-size: 50px;
+    font-weight: bold;
+    color: #561954;
+}
+
+.button {
+    font-size: 20px;
+    font-weight: bold;
+    color: #561954;
+}
