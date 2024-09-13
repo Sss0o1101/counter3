@@ -3,15 +3,9 @@
 .counter {
     text-align: center;
     padding: 20px;
-    margin: 20px;
-    border: 4px solid #872f2f;
+    margin: 160px;
+    border: 4px solid #561954;
     align-items: center;
+    border-radius: 10px;
 }
 
-/* .counter {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-} */
