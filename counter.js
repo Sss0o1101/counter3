@@ -18,13 +18,7 @@
         }
 
          //カウントが3の倍数に達したら画像とテキストを表示
-         if (parseInt($counter.textContent) % 3 === 0 && parseInt($counter.textContent) !== 0) {
-            $image.style.display = "block";
-            $imageAlt.style.display = "block";
-        } else {
-            $image.style.display = "none";
-            $imageAlt.style.display = "none";
-        }
+         
 
     }
 
