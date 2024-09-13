@@ -34,3 +34,12 @@
     color: #eecc5d;
 }
 
+#js-reset-button {
+    background-color: #561954;
+    color: #eecc5d;
+}
+
+#js-reset-button:hover {
+    background-color: #561954;
+    color: #eecc5d;
+}
