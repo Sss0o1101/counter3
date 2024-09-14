@@ -43,3 +43,12 @@
     background-color: #561954;
     color: #eecc5d;
 }
+
+.counter2 {
+    text-align: center;
+    padding: 20px;
+    margin: 160px;
+    border: 4px solid #561954;
+    align-items: center;
+    border-radius: 10p
+}
